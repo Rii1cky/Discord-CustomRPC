@@ -1,8 +1,6 @@
 # Custom RPC
 
-Customize your reach rich presence
-
-[x] Free Customization
+Customize your status with this rich presence
 
 # How to customize 
 
